@@ -1,16 +1,14 @@
 # PHONG TRÀO KHÁNG CHIẾN: AVALON
 
-Số người chơi: 5-10 | Thời gian: 30-45'
+`Số người chơi: 5-10 | Thời gian: 30-45'`
 
 _Trò chơi lấy bối cảnh thời trung cổ của Vương Quốc Anh, dưới sự trị vị của vua Arthur, trong gia đình tồn tại hai thế lực đối lập. Người chơi sẽ vào vai những bề tôi trung thành của vua Arthur, bảo vệ ngai vàng hoặc trở thành tay sai của kẻ phản bội Mordred đang âm mưu lật đổ ngôi vua._
 
-# THÀNH PHẦN
+## THÀNH PHẦN
 
 - 14 lá Nhân Vật (2 phe):
-
-- Phe Xanh: Merlin, Percival, 5 Bề Tôi Trung Thành
-- Phe Đỏ: Mordred, Morgana, Assassin, Oberon, 3 Tay Sai
-
+  - Phe Xanh: Merlin, Percival, 5 Bề Tôi Trung Thành
+  - Phe Đỏ: Mordred, Morgana, Assassin, Oberon, 3 Tay Sai
 - 10 lá Nhiệm Vụ (5 thất bại, 5 thành công)
 - 5 thẻ Đội
 - 20 lá Phiếu Bầu (10 đồng ý, 10 từ chối)
@@ -21,40 +19,40 @@ _Trò chơi lấy bối cảnh thời trung cổ của Vương Quốc Anh, dư�
 - 2 lá Lòng Trung Thành (1 xanh, 1 đỏ)
 - 1 lá Thiếu Nữ Bên Hồ
 
-# MỤC TIÊU
+## MỤC TIÊU
 
 Phe Xanh (Arthur) chiến thắng trò chơi khi thực hiện thành công 3 nhiệm vụ. Phe Đỏ (Morded) chiến thắng khi khiến cho 3 nhiệm vụ thất bại hoặc ám sát thành công Merlinkhi phe Xanh đã thực hiện thành công 3 nhiệm vụ. Liệu bề tôi trung thành của vua Arthur có bảo vệ được vị vua của mình hay ngai vàng sẽ sụp đổ dưới bóng tối của Morded và tay sai.
 
-# LÁ BÀI VÀ DẤU:
+## LÁ BÀI VÀ DẤU
 
-## LÁ NHÂN VẬT:
+### LÁ NHÂN VẬT
 
 Dùng để xác định phe của người chơi (xanh hay đỏ). Người chơi **không được phép** tiết lộ phe của mình trong suốt quá trình chơi. **Merlin** và **Assasin** phải có trong trò chơi và nhân vật được thêm tùy ý thích mỗi người. Một số nhân vật có chức năng đặc biệt trong trò chơi như:
 
-- **Merlin** : Biết được người chơi nào thuộc phe đỏ (trừ **Mordred** ) đầu trò chơi
-- **Percival** : Biết được **Merlin** (và **Morgana** ) đầu trò chơi
-- **Morgana** : Giả dạng **Merlin** (tiết lộ thân phận là **Merlin** cho **Percival** ) vào đầu trò chơi
-- **Mordred** : **Merlin** không nhận dạng được vào đầu trò chơi
-- **Assasin** : Nếu chỉ đúng **Merlin** vào cuối ván chơi (khi phe đỏ thua) thì phe đỏ chiến thắng
-- **Oberon** : Không được tiết lộ thân phận cho người cùng phe hay nhận biết phe ngay đầu ván chơi.
+- **Merlin**: Biết được người chơi nào thuộc phe đỏ (trừ **Mordred** ) đầu trò chơi
+- **Percival**: Biết được **Merlin** (và **Morgana** ) đầu trò chơi
+- **Morgana**: Giả dạng **Merlin** (tiết lộ thân phận là **Merlin** cho **Percival** ) vào đầu trò chơi
+- **Mordred**: **Merlin** không nhận dạng được vào đầu trò chơi
+- **Assasin**: Nếu chỉ đúng **Merlin** vào cuối ván chơi (khi phe đỏ thua) thì phe đỏ chiến thắng
+- **Oberon**: Không được tiết lộ thân phận cho người cùng phe hay nhận biết phe ngay đầu ván chơi.
 
-## THẺ CHỈ HUY:
+## THẺ CHỈ HUY
 
 Đánh đấu người có quyền chỉ định ai đi làm nhiệm vụ.
 
-## THẺ ĐỘI:
+## THẺ ĐỘI
 
 Đánh đấu người được chỉ huy chọn.
 
-## DẤU BIỂU QUYẾT:
+## DẤU BIỂU QUYẾT
 
 Đồng ý hay phản đối phe mà chỉ huy chọn đi làm nhiệm vụ.
 
-## LÁ NHIỆM VỤ:
+## LÁ NHIỆM VỤ
 
 Xác định nhiệm vụ thành công hay thất bại.
 
-# CHUẨN BỊ
+## CHUẨN BỊ
 
 - Chọn bảng chơi phù hợp với số người chơi. Đặt thẻ chỉ huy, 5 thẻ đội, 5 dấu tính điểm, 1 dấu biểu quyết giữa bàn gần bảng chơi. Phát mỗi người chơi 1 cặp lá Phiếu Bầu.
 - Ngẫu nhiên chọn người đi đầu, người đó giữ dấu chỉ huy (_đội trưởng_). Dùng bảng phía dưới để xác định số người chơi của từng phe:
@@ -66,7 +64,7 @@ Xác định nhiệm vụ thành công hay thất bại.
 
 Lấy số lá tương ứng từng phe (bắt buộc có **Merlin** và **Assasin** ), sau đó xào và úp trước mặt mỗi người 1 lá. Từng người chơi bí mật xem và không được để người khác thấy.
 
-# CÁI ÁC HIỆN THÂN, MERLIN BIẾT RÕ
+## CÁI ÁC HIỆN THÂN, MERLIN BIẾT RÕ
 
 Phe đỏ biết được phe mình và phe xanh, **Merlin** biết phe đỏ.
 
@@ -85,7 +83,7 @@ _Kịch bản thay đổi khi các nhân vật đặc biệt khác được thê
 
 VD: Phe đỏ trừ **Oberon** mở mắt ra nhìn xung quanh để nhận biết đồng đội
 
-# CÁCH CHƠI
+## CÁCH CHƠI
 
 Mỗi ván chơi có 5 nhiệm vụ.
 
@@ -99,7 +97,7 @@ Mỗi ván chơi có 5 nhiệm vụ.
 
 Mỗi nhiệm vụ gồm có 2 giai đoạn:
 
-## THÀNH LẬP ĐỘI:
+## THÀNH LẬP ĐỘI
 
 1. CHỌN THÀNH VIÊN:
 
@@ -131,26 +129,26 @@ _Lưu ý:_
 - Khi số người chơi là 7+, ở nhiệm vụ thứ 4, cần ít nhất 2 lá thất bại để làm thất bại 1 nhiệm vụ.
 - Khi xào các lá nhiệm vụ, nên có ít nhất 2 người xào để đảm bảo tính bí mật.
 
-# KẾT THÚC TRÒ CHƠI
+## KẾT THÚC TRÒ CHƠI
 
 Trò chơi kết thúc ngay lập tức khi:
 
 - Có 3 nhiệm vụ thành công và **Merlin** còn sống, phe xanh thắng.
 - Có 3 nhiệm vụ thất bại hoặc giết chết **Merlin**, phe đỏ thắng.
 
-# ÁM SÁT MERLIN
+## ÁM SÁT MERLIN
 
 Khi có **Assassin** trong ván chơi và đã có 3 nhiệm vụ thành công, phe đỏ vẫn có cơ hội để thắng nếu xác định chính xác ai là **Merlin**. Lúc này phe đỏ sẽ lộ diện và thảo luận xem ai là **Merlin** , sau khi thảo luận xong, **Assassin** sẽ đưa ra quyết định cuối cùng, chỉ định Merlin. Nếu người bị chỉ định đúng là **Merlin** thì phe đỏ thắng, nếu không phải thì phe xanh thắng.
 
-# LUẬT BIẾN THỂ
+## LUẬT BIẾN THỂ
 
-## CHỌN LỰA NHIỆM VỤ:
+### CHỌN LỰA NHIỆM VỤ
 
 _Luật này cho phép người chơi thực hiện nhiệm vụ tùy ý._ Đầu lượt đội trưởng chọn nhiệm vụ thực hiện và đánh đấu nhiệm vụ đó bằng một dấu hiệu. Sau đó, đội trưởng chọn số người làm nhiệm vụvà chơi như bình thường.
 
 **Nhiệm vụ thứ 5 chỉ được chọn khi có ít nhất 2 nhiệm vụ thực hiện thành công.**
 
-## THIẾU NỮ BÊN HỒ (KIẾN NGHỊ TỪ 7+ NGƯỜI CHƠI)
+### THIẾU NỮ BÊN HỒ (KIẾN NGHỊ TỪ 7+ NGƯỜI CHƠI)
 
 _Khi áp dụng luật này, người __chơi có thể sử dụng__ chức năng đặc biệt__của lá_ **Thiếu Nữ Bên Hồ** _để kiểm tra thân phận của 1 người khác._
 
@@ -160,11 +158,10 @@ _Lưu ý:_ Người giữ lá **Thiếu Nữ Bên Hồ** có thể tiết lộ b
 
 Ví dụ: Khi trò chơi bắt đầu, A (phe đỏ) bên phải đội trưởng và nhận được lá **Thiếu Nữ Bên Hồ**. Sau khi nhiệm vụ 1 thành công và nhiệm vụ 2 thất bại, A dùng lá **Thiếu Nữ Bên Hồ** để kiểm tra thân phận của B (phe xanh). B nhận 2 lá **Lòng Trung Thành** , sau đó đưa lại cho A lá màu xanh. A nhìn lá bài và nói "B thuộc phe đỏ". Sau đó A chuyển lá **Thiếu Nữ Bên Hồ** cho B. B có thể kiểm tra thân phận của người khác sau nhiệm vụ thứ 3 hoàn thành, nhưng B không thể kiểm tra thân phận của A vì A đã từng giữ lá **Thiếu Nữ Bên Hồ**.
 
-**Thiết kế trò chơi:** Don Eskridge
+**Thiết kế trò chơi**: Don Eskridge
 
-**Dịch bởi** : Sờ Anh Sanh
+**Dịch bởi**: Sờ Anh Sanh
 
-**Biên tập và chỉnh sửa bởi** : Red J
+**Biên tập và chỉnh sửa bởi**: Red J
 
 **Phiên bản Việt hóa bởi Big Family Studio.**
-
